@@ -10,6 +10,8 @@ This project addresses a strategic need within the *Sterling & Draper* agency: a
 - Geographic distribution of trends was analyzed, with special focus on the United States.
 - Regional differences were identified to guide targeted advertising campaigns.
 
+---
+
 ### Análisis de Tendencias de Videos en YouTube – Sprint 12
 
 Este proyecto responde a una necesidad estratégica dentro de la agencia *Sterling & Draper*: automatizar el análisis diario de videos en tendencia en YouTube para apoyar decisiones de mercadotecnia basadas en datos.
